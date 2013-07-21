@@ -5,7 +5,7 @@
 	"keywords": ["twitter","streaming"], 
 	"author": "Aivis Silins",
 	"dependencies": {
-		"oauth": "0.9.8"
+		"oauth": "https://github.com/jazzychad/node-oauth/tarball/master"
 	}, 
 	"repository" : {
 		"type": "git",
